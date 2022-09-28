@@ -1,0 +1,5 @@
+.cart-content{
+    height: 85vh;
+    background-color: #FF99004D;
+    overflow-y: scroll;
+}
